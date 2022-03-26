@@ -11,6 +11,9 @@
 
 > **Where do I commit?** Commit to the folder provided on each branch.
 
+> :bulb: **Tip**: You should merge each branch into main after you complete each assignment!
+
+### 📦 Format
 #### ❓ Problem
 This is where the *scenario* of the problem will be explained -- secret agent style!
 #### 💡 Proposed Solution

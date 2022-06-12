@@ -1,9 +1,9 @@
 ![header](https://user-images.githubusercontent.com/69332964/114803220-14269100-9d6d-11eb-9a3a-e92a637e5d79.png)
-## Intro To Serverless HACKATHON
+## Intro To Serverless Pair-Programming
 *Throughout the bootcamp, you will be presented with a problem each week that aims to reinforce the skills you learned that week.*
 ### ✏️ Guidelines
-* You can work individually or with a partner
-* You will submit your code by committing to your own repository
+* You will work with a partner
+* Whoever is "driving" that week will submit their code on behalf of you both
 * Fork this repo to get started!
 
 ### 🚀 How does it work?
